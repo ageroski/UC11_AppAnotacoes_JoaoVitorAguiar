@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjetoTeste</string>
+    
+    <string name="txtTitulo">Título...</string>
+    <string name="hintTitulo">Digite o título aqui</string>
+    <string name="txtAnotacoes">Anotações</string>
+    <string name="hintAnotacoes">Coloque as suas anotaçõe aqui</string>
+    <string name="txtSalvar">Salvar</string>
+</resources>
